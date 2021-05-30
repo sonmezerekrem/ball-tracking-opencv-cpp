@@ -1,8 +1,9 @@
 # Ball Tracking with OpenCV
 
 ![Language](https://img.shields.io/badge/language-c++-blue?style=flat-square) 
-![Opencv](https://img.shields.io/badge/required-opencv-brightgreen?style=flat-square&logo=opencv)
-![GitHub](https://img.shields.io/github/license/sonmezerekrem/ball-tracking-opencv-cpp?style=flat-square) 
+![Opencv](https://img.shields.io/badge/dependent-opencv-brightgreen?style=flat-square&logo=opencv)
+![License](https://img.shields.io/badge/license-MIT-yellowgreen?style=flat-square) 
+
 
 This project contains ball tracking samples written in C++ with OpenCV.
 
